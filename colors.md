@@ -40,3 +40,13 @@ ratio|color (rgb)
 1/6|`#008026`
 1/6|`#24408E`
 1/6|`#732982`
+
+## Trans
+
+ratio|color (rgb)
+-|-
+1/5|`#5BCEFA`
+1/5|`#F5A9B8`
+1/5|`#FFFFFF`
+1/5|`#F5A9B8`
+1/5|`#5BCEFA`
