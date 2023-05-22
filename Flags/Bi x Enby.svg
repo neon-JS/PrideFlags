@@ -9,8 +9,8 @@
    viewBox="0 0 1008 612"
    width="100%"
    xml:space="preserve"
-   id="svg24"
-   sodipodi:docname="bienby.svg"
+   id="svg150"
+   sodipodi:docname="Bi x Enby_opt.svg"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,8 +19,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"><title
-   id="title257">Bisexual x Enby Pride Flag</title><sodipodi:namedview
-   id="namedview26"
+   id="title567">Bisexual x Enby Pride Flag</title><sodipodi:namedview
+   id="namedview152"
    pagecolor="#505050"
    bordercolor="#ffffff"
    borderopacity="1"
@@ -30,87 +30,97 @@
    inkscape:deskcolor="#505050"
    showgrid="false"
    inkscape:zoom="0.38562092"
-   inkscape:cx="501.78814"
-   inkscape:cy="306"
-   inkscape:window-width="1344"
-   inkscape:window-height="456"
+   inkscape:cx="504.38136"
+   inkscape:cy="307.29661"
+   inkscape:window-width="1280"
+   inkscape:window-height="1387"
    inkscape:window-x="0"
-   inkscape:window-y="38"
+   inkscape:window-y="25"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg24" />
+   inkscape:current-layer="svg150" />
 <defs
-   id="defs2" />
-<clipPath
-   id="ArtboardFrame">
-<rect
-   height="612"
-   width="1008"
-   x="0"
-   y="0"
-   id="rect4" />
-</clipPath>
+   id="defs125" />
 <g
-   clip-path="url(#ArtboardFrame)"
-   id="Layer0">
-<path
-   d="M0 0L1008 0L1008 244.8L0 244.8L0 0Z"
-   fill="#d60270"
-   fill-rule="nonzero"
-   opacity="1"
-   stroke="none"
-   id="path7" />
+   id="basis-flag">
 <path
    d="M0 367.2L1008 367.2L1008 612L0 612L0 367.2Z"
    fill="#0038a8"
    fill-rule="nonzero"
    opacity="1"
    stroke="none"
-   id="path9" />
+   id="path127" />
 <path
-   d="M0 0L0 612L-90 612L-90 612.094L126 612L432 310.062L126 0L0 0Z"
-   fill="#2c2c2c"
-   fill-rule="nonzero"
-   opacity="1"
-   stroke="none"
-   id="path11" />
-<path
-   d="M0 0L0 244.812L0 367.188L0 612L-90 612L-90 612.062L54 612L301.781 367.5L507 367.5L507 367.188L1008 367.188L1008 244.812L295.594 244.812L54 0L0 0Z"
+   d="M0 244.8L1008 244.8L1008 367.2L0 367.2L0 244.8Z"
    fill="#9c59d1"
    fill-rule="nonzero"
    opacity="1"
    stroke="none"
-   id="path13" />
+   id="path129" />
 <path
-   d="M0 18.25L0 594.25L288 310.062L0 18.25Z"
+   d="M0 0L0 244.8L1008 244.8L1008 0L0 0Z"
+   fill="#d60270"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path131" />
+</g>
+<g
+   id="arrow">
+<path
+   d="M0 0L0 612L126 612L432 306L126 0L0 0Z"
+   fill="#2c2c2c"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path134" />
+<path
+   d="M0 0L0 612L54 612L360 306L54 0L0 0Z"
+   fill="#9c59d1"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path136" />
+<path
+   d="M0 18L0 594L288 306L0 18Z"
    fill="#ffffff"
    fill-rule="nonzero"
    opacity="1"
    stroke="none"
-   id="path15" />
+   id="path138" />
 <path
-   d="M0 91.1875L0 523.188L216 310.062L0 91.1875Z"
+   d="M0 90L0 522L216 306L0 90Z"
    fill="#fcf434"
    fill-rule="nonzero"
    opacity="1"
    stroke="none"
-   id="path17" />
+   id="path140" />
 <path
-   d="M0 164.156L0 452.156L144 310.062L0 164.156Z"
+   d="M0 162L0 450L144 306L0 162Z"
    fill="#2c2c2c"
    fill-rule="nonzero"
    opacity="1"
    stroke="none"
-   id="path19" />
+   id="path142" />
 <path
-   d="M0 237.094L0 381.094L72 310.062L0 237.094Z"
+   d="M0 234L0 378L72 306L0 234Z"
    fill="#9c59d1"
    fill-rule="nonzero"
    opacity="1"
    stroke="none"
-   id="path21" />
+   id="path144" />
+</g>
+<g
+   id="connection">
+<path
+   d="M290 244.8L440 244.8L440 367.2L290 367.2L290 244.8Z"
+   fill="#9c59d1"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path147" />
 </g>
 <metadata
-   id="metadata255"><rdf:RDF><cc:Work
+   id="metadata565"><rdf:RDF><cc:Work
        rdf:about=""><dc:title>Bisexual x Enby Pride Flag</dc:title><dc:creator><cc:Agent><dc:title>Niklas 'Curly' Schmidt</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>lgbt lgbtq lgbtqia bisexual bi mspec enby non-binary nonbinary trans transgender pride queer flag</rdf:li></rdf:Bag></dc:subject><dc:description>Bisexual x Enby pride flag in the style of the progress pride flag</dc:description><cc:license
          rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" /></cc:Work><cc:License
        rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/"><cc:permits
