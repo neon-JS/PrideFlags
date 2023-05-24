@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Vectornator (http://vectornator.io/) -->
+
+<svg
+   height="100%"
+   stroke-miterlimit="10"
+   style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+   version="1.1"
+   viewBox="0 0 591.012 591.012"
+   width="100%"
+   xml:space="preserve"
+   id="svg36"
+   sodipodi:docname="Triskelion.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+   id="title167">Triskelion (extracted)</title><sodipodi:namedview
+   id="namedview38"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="0.39931507"
+   inkscape:cx="294.25386"
+   inkscape:cy="296.75814"
+   inkscape:window-width="2560"
+   inkscape:window-height="1387"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg36" />
+<defs
+   id="defs2" />
+<clipPath
+   id="ArtboardFrame">
+<rect
+   height="591.012"
+   width="591.012"
+   x="0"
+   y="0"
+   id="rect4" />
+</clipPath>
+<g
+   clip-path="url(#ArtboardFrame)"
+   id="Ebene-1">
+<g
+   opacity="1"
+   id="g33">
+<path
+   d="M0 295.5C0 132.3 132.3 0 295.5 0C458.7 0 591 132.3 591 295.5C591 458.7 458.7 591 295.5 591C132.3 591 0 458.7 0 295.5Z"
+   fill="#ff0000"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="#ffffff"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="40"
+   id="path7" />
+<g
+   opacity="1"
+   id="g15">
+<path
+   d="M263.25 135.75C263.25 117.939 277.689 103.5 295.5 103.5C313.311 103.5 327.75 117.939 327.75 135.75C327.75 153.561 313.311 168 295.5 168C277.689 168 263.25 153.561 263.25 135.75Z"
+   fill="#ffffff"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path9" />
+<path
+   d="M349.519 263.01C332.433 270.262 314.062 274 295.5 274C219.147 274 157.25 212.103 157.25 135.75C157.25 99.0839 171.816 63.9196 197.743 37.993"
+   fill="none"
+   opacity="1"
+   stroke="#ffffff"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="45"
+   id="path11" />
+<path
+   d="M203.245 46.66C227.412 21.634 260.71 7.50007 295.5 7.5M359.625 246.818C354.453 249.804 349.08 252.424 343.543 254.661"
+   fill="none"
+   opacity="1"
+   stroke="#ffffff"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="25"
+   id="path13" />
+</g>
+<g
+   opacity="1"
+   id="g23">
+<path
+   d="M173.277 403.304C157.852 412.21 138.129 406.925 129.223 391.5C120.318 376.075 125.602 356.351 141.027 347.446C156.452 338.54 176.176 343.825 185.082 359.25C193.987 374.675 188.702 394.399 173.277 403.304Z"
+   fill="#ffffff"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path17" />
+<path
+   d="M240.353 264.963C255.177 276.134 267.6 290.175 276.88 306.25C315.057 372.374 292.401 456.927 226.277 495.103C194.524 513.436 156.788 518.404 121.371 508.914"
+   fill="none"
+   opacity="1"
+   stroke="#ffffff"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="45"
+   id="path19" />
+<path
+   d="M126.126 499.815C92.3689 491.399 63.4798 469.629 46.0847 439.5M221.278 264.307C226.449 267.293 231.405 270.636 236.111 274.313"
+   fill="none"
+   opacity="1"
+   stroke="#ffffff"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="25"
+   id="path21" />
+</g>
+<g
+   opacity="1"
+   id="g31">
+<path
+   d="M449.973 347.446C465.397 356.351 470.682 376.075 461.777 391.5C452.871 406.925 433.147 412.21 417.723 403.304C402.298 394.399 397.013 374.675 405.918 359.25C414.824 343.825 434.548 338.54 449.973 347.446Z"
+   fill="#ffffff"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path25" />
+<path
+   d="M296.628 358.527C298.89 340.104 304.839 322.325 314.12 306.25C352.296 240.126 436.849 217.47 502.973 255.647C534.726 273.98 557.897 304.177 567.386 339.593"
+   fill="none"
+   opacity="1"
+   stroke="#ffffff"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="45"
+   id="path27" />
+<path
+   d="M557.129 340.025C566.719 373.467 562.31 409.371 544.915 439.5M305.597 375.375C305.598 369.403 306.015 363.439 306.846 357.526"
+   fill="none"
+   opacity="1"
+   stroke="#ffffff"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="25"
+   id="path29" />
+</g>
+</g>
+</g>
+<metadata
+   id="metadata163"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>Triskelion (extracted)</dc:title><dc:subject><rdf:Bag><rdf:li>triskelion bdsm fetish kink</rdf:li></rdf:Bag></dc:subject><dc:source>https://de.wikipedia.org/wiki/Datei:BDSM-rights-flag-Tanos.svg</dc:source><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>

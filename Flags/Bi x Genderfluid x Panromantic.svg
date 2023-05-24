@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Vectornator (http://vectornator.io/) -->
+
+<svg
+   height="100%"
+   stroke-miterlimit="10"
+   style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+   version="1.1"
+   viewBox="0 0 1920 1080"
+   width="100%"
+   xml:space="preserve"
+   id="svg38"
+   sodipodi:docname="Bi x Genderfluid x Panromantic.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+   id="title167">Bisexual x Genderfluid x Panromantic</title><sodipodi:namedview
+   id="namedview40"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="0.21851852"
+   inkscape:cx="963.30508"
+   inkscape:cy="540"
+   inkscape:window-width="1512"
+   inkscape:window-height="916"
+   inkscape:window-x="676"
+   inkscape:window-y="1478"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg38" />
+<defs
+   id="defs2" />
+<clipPath
+   id="ArtboardFrame">
+<rect
+   height="1080"
+   width="1920"
+   x="0"
+   y="0"
+   id="rect4" />
+</clipPath>
+<g
+   clip-path="url(#ArtboardFrame)"
+   id="genderfluid">
+<path
+   d="M-2.84217e-14 864L1920 864L1920 1080L-2.84217e-14 1080L-2.84217e-14 864Z"
+   fill="#2f3cbe"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path7" />
+<path
+   d="M-2.84217e-14 648L1920 648L1920 864L-2.84217e-14 864L-2.84217e-14 648Z"
+   fill="#000000"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path9" />
+<path
+   d="M-2.84217e-14 432L1920 432L1920 648L-2.84217e-14 648L-2.84217e-14 432Z"
+   fill="#9d0cb0"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path11" />
+<path
+   d="M-2.84217e-14 216L1920 216L1920 432L-2.84217e-14 432L-2.84217e-14 216Z"
+   fill="#ffffff"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path13" />
+<path
+   d="M-2.84217e-14 0L1920 0L1920 216L-2.84217e-14 216L-2.84217e-14 0Z"
+   fill="#ff76a4"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path15" />
+</g>
+<g
+   clip-path="url(#ArtboardFrame)"
+   id="bi-outline">
+<path
+   d="M0 0L768 432L1152 648L1920 1080L1920 648L1920 432L1920 0L0 0Z"
+   fill="#d60270"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="12"
+   id="path18" />
+</g>
+<g
+   id="bi">
+<path
+   d="M1152 648L1920 1080L1920 648L1152 648Z"
+   fill="#0038a8"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path21" />
+<path
+   d="M768 432L1152 648L1920 648L1920 432L768 432Z"
+   fill="#96328f"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path23" />
+<path
+   d="M0 0L768 432L1920 432L1920 0L0 0Z"
+   fill="#d60270"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path25" />
+</g>
+<g
+   id="pan-outline">
+<path
+   d="M732.656 110C593.137 110 477.84 223.259 480.031 362.938C480.202 373.838 481.495 385.102 483.75 396.656C500.765 483.853 574.128 587.925 658.344 683.344C794.904 838.072 960.031 970 960.031 970C960.031 970 1126.78 838.171 1263.72 683.344C1348.01 588.043 1420.96 484.024 1436.78 396.656C1438.87 385.102 1440.01 373.851 1440 362.938C1439.82 223.242 1326.89 110 1187.38 110C1087.36 110 1000.96 168.212 960.031 252.625C919.098 168.212 832.669 110 732.656 110Z"
+   fill="none"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="12"
+   id="path28" />
+</g>
+<g
+   id="pan">
+<path
+   d="M732.655 110C593.136 110 477.839 223.27 480.031 362.948C480.202 373.849 481.504 385.113 483.759 396.667L1436.79 396.667C1438.89 385.112 1440.01 373.862 1440 362.948C1439.82 223.253 1326.89 110 1187.38 110C1087.36 110 1000.96 168.224 960.028 252.637C919.095 168.224 832.669 110 732.655 110Z"
+   fill="#ff218c"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path31" />
+<path
+   d="M658.339 683.333C794.9 838.061 960.028 970 960.028 970C960.028 970 1126.77 838.16 1263.7 683.333L658.339 683.333Z"
+   fill="#21b1ff"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path33" />
+<path
+   d="M483.759 396.667C500.774 483.864 574.124 587.914 658.339 683.333L1263.7 683.333C1347.99 588.033 1420.98 484.034 1436.79 396.667L483.759 396.667Z"
+   fill="#ffd800"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path35" />
+</g>
+<metadata
+   id="metadata165"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>Bisexual x Genderfluid x Panromantic</dc:title><dc:creator><cc:Agent><dc:title>Niklas 'Curly' Schmidt</dc:title></cc:Agent></dc:creator><dc:description>Bisexual x Genderfluid x Panromantic flag</dc:description><dc:subject><rdf:Bag><rdf:li>lgbt lgbtqia pride bisexual bi genderfluid pan panromantic</rdf:li></rdf:Bag></dc:subject><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:prohibits
+         rdf:resource="http://creativecommons.org/ns#CommercialUse" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata></svg>
