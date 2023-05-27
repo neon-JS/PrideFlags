@@ -3,67 +3,87 @@
 
 ## Bisexual
 
-ratio|color (rgb)
--|-
-2/5|`#D60270`
-1/5|`#9B4F96`
-2/5|`#0038A8`
+ratio|color (rgb)|preview
+-|-|-
+2/5|`#D60270`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#D60270" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#9B4F96`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#9B4F96" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+2/5|`#0038A8`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#0038A8" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
 
 ## Demiboy
 
-ratio|color (rgb)
--|-
-1/7|`#7F7F7F`
-1/7|`#C4C4C4`
-1/7|`#9DD7EA`
-1/7|`#FFFFFF`
-1/7|`#9DD7EA`
-1/7|`#C4C4C4`
-1/7|`#7F7F7F`
+ratio|color (rgb)|preview
+-|-|-
+1/7|`#7F7F7F`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#7F7F7F" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/7|`#C4C4C4`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#C4C4C4" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/7|`#9DD7EA`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#9DD7EA" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/7|`#FFFFFF`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFFFFF" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/7|`#9DD7EA`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#9DD7EA" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/7|`#C4C4C4`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#C4C4C4" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/7|`#7F7F7F`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#7F7F7F" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
 
 ## Genderfluid
 
-ratio|color (rgb)
--|-
-1/5|`#FF76A4`
-1/5|`#FFFFFF`
-1/5|`#C011D7`
-1/5|`#000000`
-1/5|`#2F3CBE`
+ratio|color (rgb)|preview
+-|-|-
+1/5|`#FF76A4`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FF76A4" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#FFFFFF`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFFFFF" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#C011D7`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#C011D7" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#000000`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#2F3CBE`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#2F3CBE" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+
+## Intersex
+
+ratio|color (rgb)|preview
+-|-|-
+-|`#FFD800`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFD800" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+-|`#7902AA`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#7902AA" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+
+
 ## Nonbinary
 
-ratio|color (rgb)
--|-
-1/4|`#FCF434`
-1/4|`#FFFFFF`
-1/4|`#9C59D1`
-1/4|`#2C2C2C`
+ratio|color (rgb)|preview
+-|-|-
+1/4|`#FCF434`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FCF434" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/4|`#FFFFFF`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFFFFF" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/4|`#9C59D1`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#9C59D1" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/4|`#2C2C2C`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#2C2C2C" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
 
 ## Pansexual
 
-ratio|color (rgb)
--|-
-1/3|`#FF218C`
-1/3|`#FFD800`
-1/3|`#21B1FF`
+ratio|color (rgb)|preview
+-|-|-
+1/3|`#FF218C`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FF218C" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/3|`#FFD800`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFD800" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/3|`#21B1FF`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#21B1FF" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
 
 ## Pride (6 bars)
 
-ratio|color (rgb)
--|-
-1/6|`#E40303`
-1/6|`#FF8C00`
-1/6|`#FFED00`
-1/6|`#008026`
-1/6|`#24408E`
-1/6|`#732982`
+ratio|color (rgb)|preview
+-|-|-
+1/6|`#E40303`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#E40303" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/6|`#FF8C00`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FF8C00" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/6|`#FFED00`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFED00" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/6|`#008026`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#008026" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/6|`#24408E`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#24408E" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/6|`#732982`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#732982" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+
+## Progress Pride Chevron
+
+ratio|color (rgb)|preview
+-|-|-
+-|`#000000`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+-|`#613915`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#613915" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+-|`#74D7EE`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#74D7EE" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+-|`#FFAFC8`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFAFC8" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+-|`#FFFFFF`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFFFFF" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+
 
 ## Trans
 
-ratio|color (rgb)
--|-
-1/5|`#5BCEFA`
-1/5|`#F5A9B8`
-1/5|`#FFFFFF`
-1/5|`#F5A9B8`
-1/5|`#5BCEFA`
+ratio|color (rgb)|preview
+-|-|-
+1/5|`#5BCEFA`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#5BCEFA" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#F5A9B8`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#F5A9B8" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#FFFFFF`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#FFFFFF" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#F5A9B8`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#F5A9B8" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>
+1/5|`#5BCEFA`|<svg height="32px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><g id="preview"><path d="M1.77636e-15 0L32 0L32 32L1.77636e-15 32L1.77636e-15 0Z" fill="#5BCEFA" fill-rule="nonzero" opacity="1" stroke="none"/></g></svg>

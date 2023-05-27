@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Vectornator (http://vectornator.io/) -->
+
+<svg
+   height="100%"
+   stroke-miterlimit="10"
+   style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+   version="1.1"
+   viewBox="0 0 1920 1080"
+   width="100%"
+   xml:space="preserve"
+   id="svg135"
+   sodipodi:docname="Queer Ally.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="Queer Ally.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+   id="title264">Queer Ally Flag</title><sodipodi:namedview
+   id="namedview137"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="0.21851852"
+   inkscape:cx="963.30508"
+   inkscape:cy="542.28814"
+   inkscape:window-width="2560"
+   inkscape:window-height="1387"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg135" />
+<defs
+   id="defs89">
+<path
+   d="M960 0L800 180L640 360L480 540L320 720L160 900L0 1080L640 1080L800 900L960 720L1120 900L1280 1080L1920 1080L1760 900L1600 720L1440 540L1280 360L1120 180L960 0Z"
+   id="Fill" />
+</defs>
+<clipPath
+   id="ArtboardFrame">
+<rect
+   height="1080"
+   width="1920"
+   x="0"
+   y="0"
+   id="rect91" />
+</clipPath>
+<g
+   clip-path="url(#ArtboardFrame)"
+   id="background">
+<path
+   d="M-2.13163e-13 900L1920 900L1920 1080L-2.13163e-13 1080L-2.13163e-13 900Z"
+   fill="#ffd800"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path94" />
+<path
+   d="M905 990C905 959.624 929.624 935 960 935C990.376 935 1015 959.624 1015 990C1015 1020.38 990.376 1045 960 1045C929.624 1045 905 1020.38 905 990Z"
+   fill="none"
+   opacity="1"
+   stroke="#7902aa"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="19"
+   id="path96" />
+<path
+   d="M-2.13163e-13 720L1920 720L1920 900L-2.13163e-13 900L-2.13163e-13 720Z"
+   fill="#ffffff"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path98" />
+<path
+   d="M-2.13163e-13 540L1920 540L1920 720L-2.13163e-13 720L-2.13163e-13 540Z"
+   fill="#ffafc8"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path100" />
+<path
+   d="M-2.13163e-13 360L1920 360L1920 540L-2.13163e-13 540L-2.13163e-13 360Z"
+   fill="#74d7ee"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path102" />
+<path
+   d="M-2.13163e-13 180L1920 180L1920 360L-2.13163e-13 360L-2.13163e-13 180Z"
+   fill="#613915"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path104" />
+<path
+   d="M-2.13163e-13-1.42109e-14L1920-1.42109e-14L1920 180L-2.13163e-13 180L-2.13163e-13-1.42109e-14Z"
+   fill="#000000"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path106" />
+</g>
+<g
+   clip-path="url(#ArtboardFrame)"
+   id="ally">
+<g
+   opacity="1"
+   id="g116">
+<mask
+   height="1088"
+   id="StrokeMask"
+   maskUnits="userSpaceOnUse"
+   width="1928"
+   x="-4"
+   y="-4">
+<rect
+   fill="#ffffff"
+   height="1088"
+   stroke="none"
+   width="1928"
+   x="-4"
+   y="-4"
+   id="rect109" />
+<use
+   fill="#000000"
+   fill-rule="evenodd"
+   stroke="none"
+   xlink:href="#Fill"
+   id="use111" />
+</mask>
+<use
+   fill="none"
+   mask="url(#StrokeMask)"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="8"
+   xlink:href="#Fill"
+   id="use114" />
+</g>
+<path
+   d="M160 900L0 1080L640 1080L800 900L160 900Z"
+   fill="#732982"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path118" />
+<path
+   d="M1120 900L1280 1080L1920 1080L1760 900L1120 900Z"
+   fill="#732982"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path120" />
+<path
+   d="M960 720L1120 900L1760 900L1600 720L960 720Z"
+   fill="#24408e"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path122" />
+<path
+   d="M320 720L160 900L800 900L960 720L320 720Z"
+   fill="#24408e"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path124" />
+<path
+   d="M480 540L320 720L1600 720L1440 540L480 540Z"
+   fill="#008026"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path126" />
+<path
+   d="M640 360L480 540L1440 540L1280 360L640 360Z"
+   fill="#ffed00"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path128" />
+<path
+   d="M800 180L640 360L1280 360L1120 180L800 180Z"
+   fill="#ff8c00"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path130" />
+<path
+   d="M960 0L800 180L1120 180L960 0Z"
+   fill="#e40303"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path132" />
+</g>
+<metadata
+   id="metadata262"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>Queer Ally Flag</dc:title><dc:creator><cc:Agent><dc:title>Niklas 'Curly' Schmidt</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>lgbt lgbtq lgbtqia gay queer bi trans intersex enby lesbian homosexual</rdf:li></rdf:Bag></dc:subject><dc:description>Queer Ally Flag</dc:description><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:prohibits
+         rdf:resource="http://creativecommons.org/ns#CommercialUse" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata></svg>
